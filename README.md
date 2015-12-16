@@ -32,7 +32,7 @@ QQ：99592120<br>
 			console.log(dat);
 		});
 		$('#dom2').on('click',function(){
-			$('#touchUp').off('touchwhere');
+			$('#dom2').off('touchwhere');
 		});
 ##联系方式
 [新浪微博](http://weibo.com/u/1957155830)
