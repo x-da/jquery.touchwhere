@@ -1,8 +1,10 @@
 # jquery.touchwhere
-插件名：jquery.touchwhere
-作者：X-DA
-版本号：1.0.0
+插件名：jquery.touchwhere<br>
+作者：X-DA<br>
+QQ：99592120<br>
+版本号：1.0.0<br>
 兼容：移动端
+
 #调用方法
 		$('#dom').on('touchwhere',function(event,dat){
 			if(dat['directionX'] == -1){
@@ -29,3 +31,5 @@
 		$('#dom2').on('click',function(){
 			$('#touchUp').off('touchwhere');
 		});
+#联系方式
+[新浪微博](http://weibo.com/u/1957155830)
