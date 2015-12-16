@@ -5,7 +5,10 @@ QQ：99592120<br>
 版本号：1.0.0<br>
 兼容：移动端
 
-#调用方法
+##插件作用
+获得用户从某节点滑动的距离以及方向
+
+##调用方法
 		$('#dom').on('touchwhere',function(event,dat){
 			if(dat['directionX'] == -1){
 				console.log('左滑了'+ dat['offsetX']+'px');
@@ -31,5 +34,5 @@ QQ：99592120<br>
 		$('#dom2').on('click',function(){
 			$('#touchUp').off('touchwhere');
 		});
-#联系方式
+##联系方式
 [新浪微博](http://weibo.com/u/1957155830)
