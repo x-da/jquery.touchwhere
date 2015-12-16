@@ -1,4 +1,4 @@
-# jquery.touchwhere
+# jquery.touchwhere.js
 插件名：jquery.touchwhere<br>
 作者：X-DA<br>
 QQ：99592120<br>
